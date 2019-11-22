@@ -1,5 +1,6 @@
 # Chinese-medicine-descriptor-table
 中药叙词表制作
+
 1、“中药查询”网站的所有重要信息的爬取
 
 2、数据清洗
